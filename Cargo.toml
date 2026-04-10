@@ -1,0 +1,12 @@
+[package]
+name = "chinar"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bytemuck = "1.25.0"
+gltf = "1.4.1"
+pollster = "0.4.0"
+rand = "0.10.0"
+wgpu = "29.0.1"
+winit = "0.30.13"
